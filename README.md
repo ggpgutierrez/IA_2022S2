@@ -25,6 +25,8 @@ rogerio.oliveira@mackenzie.br
 
 **1** [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Introducao.ipynb) 
 
+> *Atividade: Formação dos grupos e apresentação das propostas iniciais de projeto*
+
 **2** [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_1.ipynb) 
 
 >> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
