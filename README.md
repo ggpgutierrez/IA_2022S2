@@ -2,143 +2,68 @@
   <img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" width="30%" align="center"/>
 </p>
 
-# Inteligência Artificial - 1o Semestre 2022
+# Inteligência Artificial - 2o Semestre 2022 (7G 7N)
 
 rogerio.oliveira@mackenzie.br  
 
-<br />
-<br />
-
-## Links dos Encontros Síncronos, Conteúdos e Fórum
-
-**7N** *Acesse o Zoom* [aqui](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+<br>
 
 <br>
 
-> Segundas-feiras da 19:20h às 21:00h 
-<br />
+## Turmas 
 
-[Página dos Conteúdos, Vídeo-Aulas e Soluções dos Exercícios](https://github.com/Rogerio-mack/IA_2022_1S/blob/main/README.md) *Acesse sempre por aqui o conteúdo e a programação atualizada*
+* **7G** Segundas-feiras da 19:20h às 21:00h + Atividades EAD
+* **7N** Quartas-feiras da 7:30h às 9:10h + Atividades EAD
 
-<br />
-
-[Fórum Slack](https://join.slack.com/t/ia2022s1/shared_invite/zt-13e0shmvk-UT4_zZ1xhNT3W3oMKj0urA) *Acesse antes de 06/03, depois disso o link expirará*
-
-<br />
-
-## Solução dos Laboratórios EAD
-
-[Solução dos Laboratórios] *As soluções parciais são postadas à medida que encerram os prazos de entrega*
-
-<br />
+<br>
 
 ## Programação Semanal
 
-07/02 [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/IA_1.ipynb) | [Lab, Colab?] 
+**1** [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Introducao.ipynb) 
 
-> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220207.mp4) 
-
-14/02 [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Python_1.ipynb) 
+**2** [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_1.ipynb) 
 
 >> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
  |  [(Complementar) Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
 
-> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220214.mp4) 
-
-21/02 [Python Pandas e Matplotlib](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Python_2.ipynb) 
+**3** [Python Pandas e Matplotlib](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_2.ipynb)
 
 >> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
 
-> [Exercício Pandas I](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/A3_Pandas_I_Exerc.ipynb) *Responda ao questionário no Moodle*
+> [Exercícios I](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Pandas_I_Exerc.ipynb) *Responda ao questionário no Moodle*
 
-> [Exercício Pandas II](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/A3_Pandas_II_Exerc.ipynb) *Responda ao questionário no Moodle*
+> [Exercícios II](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Pandas_II_Exerc.ipynb) *Responda ao questionário no Moodle*
 
-> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220221.mp4) 
+<br>
 
-28/02 **Carnaval**
+## Datas Importantes
 
-07/03 **Início das Aulas Presenciais**
+* Avaliação Intermediária I | 7N **26/09** | 7G **28/09** |
 
-07/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) 
+* Avaliação Intermediária II | 7N **21/11** | 7G **23/11** |
 
-> [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220307.mp4) 
+* Substitutiva | 7N **05/12** | 7G **07/12** |
 
-14/03 [Lab](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/ML_Regressao_ex.ipynb)
+* Avaliação Final | 7N **12/12** | 7G **14/12** |
 
-> [notebook da aula com soluções parciais](https://colab.research.google.com/drive/1bQtkKOgJJ8KVEh2-dpyF_skh-pOubheE?usp=sharing) | > [vídeo](http://meusite.mackenzie.br/rogerio/videos/AI_Aula_20220314.mp4) 
-
-21/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
-
->> [Aprendizado Supervisionado: Classificação X Regressão](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
-
->> [Complementar - Diferenças Regressão Linear e Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Compare_Regressao_Linear_e_Logistica.ipynb) *veja aqui também Conjuntos de Treinamento x Teste*
-
-21/03 **Importante** [Projeto N1](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N1.ipynb)
-
-28/03 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
-
-04/04 [Árvores de Decisão](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao_Lab.ipynb)
-
->> Complementar [Esquema Geral de Classificação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Esquema_Geral_de_Classificacao.ipynb) | [Outros Modelos Supervisionados](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) 
-
-04/04 **AVALIAÇÃO INTERMEDIÁRIA I** 
-
-> [MATERIAL DE APOIO PARA N1](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/A1_Material_de_Apoio.ipynb)
-
-11/04 [Séries Temporais I](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_1.ipynb)
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_Lab1.ipynb)
-
-18/04 [Modelo ARIMA](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_2.ipynb)
-
-25/04 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
-
-02/05 [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster_Lab.ipynb)
-
->> Complementar [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
-
-09/05 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
-| [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
-
-16/05 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
-
-23/05 **AVALIAÇÃO INTERMEDIÁRIA II** 
-
->> * TEORIA: 23/05, *PRESENCIAL COM CONSULTA*
-
->> * LAB: 23/05 Abertura, entrega até 28/05 no Moodle. 2h para concluir o questionário
-
-30/05 **Importante** [Projeto N2](https://colab.research.google.com/github/Rogerio-mack/IA_2022_1S/blob/main/IA_Projeto_N2.ipynb)
-
-13/06 **SUB** *13/06, Ver no Moodle* 
-
-20/06 **PROVA FINAL** *20/06, Ver no Moodle*
-
-
-<br />
+<br>
 
 ## Critério de Avaliação
 
-N1 = .4 Atividade Avaliativa 1 + .4 Exercicios 1 + .2 Projeto
+* N1 = .6 Atividade Avaliativa 1 + .4 Atividades 1  
 
-N2 = .4 Atividade Avaliativa 2 + .4 Exercicios 2 + .2 Projeto
+* N2 = .6 Atividade Avaliativa 2 + .4 Atividades 2
 
-Nota Intermediária
-MI = .5 MI1 + .5 MI2 + partic (referente a Prova Integrada - Avalia)
+* MI = .5 MI1 + .5 MI2 + partic Avalia (=até 0.5) + partic Aulas (=até 0.5)
+
+<br>
 
 ## Critério de Aprovação
 
-CONFORME REGULAMENTO ACADÊMICO VIGENTE
+*Conforme Regulamento Acadêmico Vigente*
 
-
-<br />
+<br>
 
 ## Leituras 
 
@@ -150,8 +75,11 @@ Martin Zinkevich. (2019) [Rules of Machine Learning: Best Practices for ML Engin
 
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="100"/>
 
-[Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+<img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="145"/>
+
+[Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python#readme)
 
 <img src="https://bookdown.org/tpinto_home/Regression-and-Classification/bca.png" width="100"/>
 
