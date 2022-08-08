@@ -19,6 +19,10 @@ rogerio.oliveira@mackenzie.br
 
 ## Programação Semanal
 
+[*Acesse aqui os planos de ensino e aulas*](https://github.com/Rogerio-mack/IA_2022S2/tree/main/Planos%20de%20Ensino%20e%20Aulas)
+
+<br>
+
 **1** [Introdução à Inteligência Artificial: conceito, história e paradigmas](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Introducao.ipynb) 
 
 **2** [Python básico para o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_1.ipynb) 
