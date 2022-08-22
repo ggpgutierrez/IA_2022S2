@@ -35,6 +35,8 @@ rogerio.oliveira@mackenzie.br
 
 **3** [Python Pandas e Matplotlib](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_2.ipynb)
 
+>> [Aula 7N](https://colab.research.google.com/drive/11jDivHbvpxFObTYxhiYnNwWo96W2bKPn?usp=sharing)
+
 >> [Visualização de Dados em Python (eBook)](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
 
 > [Exercícios I](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Pandas_I_Exerc.ipynb) *Responda ao questionário no Moodle*
