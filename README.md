@@ -12,8 +12,8 @@ rogerio.oliveira@mackenzie.br
 
 ## Turmas 
 
-* **7G** Segundas-feiras da 19:20h às 21:00h + Atividades EAD
-* **7N** Quartas-feiras da 7:30h às 9:10h + Atividades EAD
+* **7N** Segundas-feiras da 19:20h às 21:00h + Atividades EAD
+* **7G** Quartas-feiras da 7:30h às 9:10h + Atividades EAD
 
 <br>
 
@@ -49,6 +49,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
 
+**5** [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
+
+>>  [Lab Caso: **Consumo de combustível em veículos**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
 ## Datas Importantes
 
