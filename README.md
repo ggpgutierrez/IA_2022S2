@@ -53,6 +53,8 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
+> [Aula 5](https://colab.research.google.com/github/Rogerio-mack/IA_2022S2/blob/main/Aula5.ipynb)
+> 
 ## Datas Importantes
 
 * Avaliação Intermediária I | 7N **26/09** | 7G **28/09** |
