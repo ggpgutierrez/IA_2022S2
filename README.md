@@ -59,6 +59,12 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb) *Para o exercício do Moodle não empregue conjuntos de treinamento em teste, mas você deve desenvolver isso durante a aula!*
 
+**7** [**Árvores de Decisão**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
+> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
+
+
+
 
 ## Datas Importantes
 
