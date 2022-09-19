@@ -63,6 +63,8 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
 
+> [Aula 7](https://colab.research.google.com/github/Rogerio-mack/IA_2022S2/blob/main/Aula7.ipynb)
+
 
 
 
