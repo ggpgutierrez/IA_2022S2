@@ -17,6 +17,10 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
+[Solução Labs Selecionados](https://github.com/Rogerio-mack/IA_2022S2/tree/main/Solucao_Labs_Selecionados)
+
+<br>
+
 ## Programação Semanal
 
 [*Acesse aqui os planos de ensino e aulas*](https://github.com/Rogerio-mack/IA_2022S2/tree/main/Planos%20de%20Ensino%20e%20Aulas)
