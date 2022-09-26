@@ -69,8 +69,9 @@ rogerio.oliveira@mackenzie.br
 
 > [Aula 7](https://colab.research.google.com/github/Rogerio-mack/IA_2022S2/blob/main/Aula7.ipynb)
 
+**8** Avaliação N1
 
-
+<br>
 
 ## Datas Importantes
 
