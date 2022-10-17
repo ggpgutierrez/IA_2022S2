@@ -73,6 +73,16 @@ rogerio.oliveira@mackenzie.br
 
 **9** [Semana Tecnologia FCI]()
 
+**10** Redes Neurais
+
+> [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+
+> [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
+
+> [Code](https://github.com/Rogerio-mack/IA_2022S2/blob/main/mlp_iris.ipynb)
+
+>> [Projeto N2](https://github.com/Rogerio-mack/IA_2022S2/blob/main/IA_Projeto_N2_template.ipynb)
+
 <br>
 
 ## Datas Importantes
