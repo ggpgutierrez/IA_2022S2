@@ -79,9 +79,19 @@ rogerio.oliveira@mackenzie.br
 
 > [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
 
-> [Code](https://github.com/Rogerio-mack/IA_2022S2/blob/main/mlp_iris.ipynb)
+> [**exemplo iris** MLP scikit-learn](https://github.com/Rogerio-mack/IA_2022S2/blob/main/mlp_iris.ipynb)
 
->> [Projeto N2](https://github.com/Rogerio-mack/IA_2022S2/blob/main/IA_Projeto_N2_template.ipynb)
+**11** [Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb)
+
+> [**Lab** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/mlp_penguins_ex.ipynb)
+
+> [**exemplo iris* Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
+
+> [**Lab** Keras TensorFlow] *próxima semana!*
+
+---
+
+>> [**Projeto N2**](https://github.com/Rogerio-mack/IA_2022S2/blob/main/IA_Projeto_N2_template.ipynb)
 
 <br>
 
