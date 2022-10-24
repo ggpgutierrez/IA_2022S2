@@ -83,11 +83,11 @@ rogerio.oliveira@mackenzie.br
 
 **11** [Deep Learning](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb)
 
-> [**Lab** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/mlp_penguins_ex.ipynb)
+> [**Lab** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/mlp_penguins_ex.ipynb) *exemplo na aula anterior!*
 
-> [**exemplo iris* Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
+> [**exemplo iris** Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
 
-> [**Lab** Keras TensorFlow] *próxima semana!*
+> [**Lab** Keras TensorFlow]() *próxima semana!*
 
 ---
 
