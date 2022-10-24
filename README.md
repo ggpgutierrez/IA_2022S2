@@ -85,6 +85,8 @@ rogerio.oliveira@mackenzie.br
 
 > [**Lab** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/mlp_penguins_ex.ipynb) *exemplo na aula anterior!*
 
+> [Método Gradiente](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/perceptron_gradiente.ipynb)
+
 > [**exemplo iris** Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
 
 > [**Lab** Keras TensorFlow]() *próxima semana!*
