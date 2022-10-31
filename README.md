@@ -89,7 +89,9 @@ rogerio.oliveira@mackenzie.br
 
 > [**exemplo iris** Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/Keras_iris.ipynb)
 
-> [**Lab** Keras TensorFlow]() *próxima semana!*
+> [**Lab** Keras TensorFlow](https://colab.research.google.com/github/Rogerio-mack/IA/blob/main/keras_penguins_ex.ipynb) *próxima semana!*
+
+**12** Deep Learning (*Exercícios*)
 
 ---
 
