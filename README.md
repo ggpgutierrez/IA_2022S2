@@ -93,11 +93,11 @@ rogerio.oliveira@mackenzie.br
 
 **12** Deep Learning (*Exercícios*)
 
-**13** [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb)
+**13** [Kmédias](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) *Primeira parte do eBook*
 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
 
-**14** [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) 
+**14** [Clusterização Hierárquica](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) *Segunda parte do eBook*
 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster_Lab.ipynb)
 
