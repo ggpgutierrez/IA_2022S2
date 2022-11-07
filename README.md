@@ -107,7 +107,7 @@ rogerio.oliveira@mackenzie.br
 
 ---
 
->> [**Projeto N2**](https://github.com/Rogerio-mack/IA_2022S2/blob/main/IA_Projeto_N2_template.ipynb)
+>> [**Projeto N2**](https://github.com/Rogerio-mack/IA_2022S2/blob/main/IA_Projeto_N2_template.ipynb), *Todas as Turmas, em grupo, entrega por um único aluno no Moodle em 24.11*
 
 <br>
 
